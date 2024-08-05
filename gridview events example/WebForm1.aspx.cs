@@ -15,6 +15,11 @@ namespace gridview_events_example
         string dant = ConfigurationManager.ConnectionStrings["dan"].ConnectionString;
         protected void Page_Load(object sender, EventArgs e)
         {
+            DataBind();
+        }
+
+        private void DataBind()
+        {
             SqlConnection con = new SqlConnection(dant);
             SqlDataAdapter da = new SqlDataAdapter("select * from vishnu2", con);
             DataSet ds = new DataSet();
