@@ -1,0 +1,45 @@
+SLDC (Software Development Life Cycle)
+
+
+1. Software Biiding:
+It is a meeting with a client
+CTO/CEO are the ones who interact with the client
+
+2. Start-up/Kick-off Meeting:
+It is meeting with team members
+
+3. Project Information/Inititation note or document:
+Client info will be there
+It is written by the project manager
+
+4. Requirements Gathering:
+Business Analyst will gather the project requirements of the client
+The document is called as BRS document (Business Requirement Specification)
+High level requirement specification document
+
+Systems Analyst and Project Manager will together work on 
+SRS System Reg Specification
+FRS Functional Req Specification
+
+THE SRS/FRS document has the technical requirements and it is handed over to the software developers and the testers for development
+
+If the SRS/FRS document is not available, then the Mock-ups are provided for having an understanding about the project elements.
+
+
+5. Project Plan:The project manager will prepare a plan to develop the project
+
+6. Design Phase/Plan
+HLD: High Level Design
+It is defined based on the modules, it is generally a list of modules that are to be implemented in the project
+
+LLD: Low Level Design
+It is defined based on the funcationality of the modules, it is generally a list of funcationality of each modules that are to be implemented in the project
+
+7. Coding: Based on the design plan, the developers will go for the development of the project
+
+8. Testing: After the developers have written the code, the project is build, then the project manager handles the build file to the testing manager
+
+9. Release/Deployment/Installation: If the project is tested and ready for the release, then the project is Released/Deployment/Installation into the client server
+
+10. Support or Maintenance: Even after the release of the project there could be some issues, to resolve these issues a team will be assigned to work them.
+These members are generally from the team of developers and testers who worked on the project.
