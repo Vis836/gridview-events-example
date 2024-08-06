@@ -106,8 +106,8 @@ namespace absstractclassexample
             obj.calbill(2000);
             obj.X = 20;
             Console.WriteLine("x value is:" + obj.X);
-            obj =new agriculturecustomer();
-            obj.calbill(3000);
+            //obj =new agriculturecustomer();
+            //obj.calbill(3000);
              obj.X = 30;
             Console.WriteLine("x value is:" + obj.X);
             Console.ReadLine();
